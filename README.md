@@ -8,9 +8,10 @@ Cisco & Packet Tracer
 
 Catalog
 ---
-### Chapter 0<br>
-#### Course Introduction<br>
-0.0 Welcome to Introduction to Networks
+<br>
+Chapter 0<br>
+Course Introduction<br>
+>0.0 Welcome to Introduction to Networks<br>
 >0.0.1 Message to the Student<br>
 >0.0.1.1 Welcome<br>
 >0.0.1.2 A Global Community<br>
@@ -24,8 +25,8 @@ Catalog
 >0.0.1.10 How Packet Tracer Helps Master Concepts<br>
 >0.0.1.11 Course Overview<br>
 <br>
-### Chapter 1
-#### Explore the Network
+Chapter 1<br>
+Explore the Network<br>
 1.0 Introduction<br>
 >1.0.1 Welcome<br>
 >>1.0.1.1 Chapter 1: Exploring the Network<br>
@@ -103,8 +104,8 @@ Catalog
 >>1.5.1.2 Warriors of the Net<br>
 >>1.5.1.3 Chapter 1: Exploring the Network<br>
 <br>
-### Chapter 2<br>
-#### Configure a Network Operating System<br>
+Chapter 2<br>
+Configure a Network Operating System<br>
 2.0 Introduction<br>
 >2.0.1 Welcome<br>
 >>2.0.1.1 Chapter 2: Configure a Network Operating System<br>
@@ -166,8 +167,8 @@ Catalog
 >>2.4.1.2 Packet Tracer - Skills Integration Challenge<br>
 >>2.4.1.3 Chapter 2: Configure a Network Operating System<br>
 <br>
-### Chapter 3<br>
-#### Network Protocols and Communications<br>
+Chapter 3<br>
+Network Protocols and Communications<br>
 3.0 Introduction<br>
 >3.0.1 Welcome<br>
 >>3.0.1.1 Chapter 3: Network Protocols and Communications<br>
@@ -223,8 +224,8 @@ Catalog
 >>3.4.1.3 Class Activity - Guaranteed to Work!<br>
 >>3.4.1.4 Chapter 3: Network Protocols and Communications<br>
 <br>
-### Chapter 4<br>
-#### Network Access<br>
+Chapter 4<br>
+Network Access<br>
 4.0 Introduction<br>
 >4.0.1 Welcome<br>
 >>4.0.1.1 Chapter 4: Network Access<br>
@@ -307,8 +308,8 @@ Catalog
 >>4.5.1.1 Class Activity – Linked In!<br>
 >>4.5.1.2 Chapter 4: Network Access<br>
 <br>
-### Chapter 5<br>
-#### Ethernet<br>
+Chapter 5<br>
+Ethernet<br>
 5.0 Introduction<br>
 >5.0.1 Welcome<br>
 >>5.0.1.1 Chapter 5: Ethernet<br>
@@ -370,8 +371,8 @@ Catalog
 >>5.4.1.1 Class Activity - MAC and Choose…<br>
 >>5.4.1.2 Chapter 5: Ethernet<br>
 <br>
-### Chapter 6<br>
-#### Network Layer<br>
+Chapter 6<br>
+Network Layer<br>
 6.0 Introduction<br>
 >6.0.1 Welcome<br>
 >>6.0.1.1 Chapter 6: Network Layer<br>
@@ -451,8 +452,8 @@ Catalog
 >>6.5.1.3 Packet Tracer - Skills Integration Challenge<br>
 >>6.5.1.4 Chapter 6: Network Layer<br>
 <br>
-### Chapter 7<br>
-#### IP Addressing<br>
+Chapter 7<br>
+IP Addressing<br>
 7.0 Introduction<br>
 >7.0.1 Welcome<br>
 >>7.0.1.1 Chapter 7: IP Addressing<br>
@@ -548,8 +549,8 @@ Catalog
 >>7.4.1.2 Packet Tracer – Skills Integration Challenge<br>
 >>7.4.1.3 Chapter 7: IP Addressing<br>
 <br>
-### Chapter 8<br>
-#### Subnetting IP Networks<br>
+Chapter 8<br>
+Subnetting IP Networks<br>
 8.0 Introduction<br>
 >8.0.1 Welcome<br>
 >>8.0.1.1 Chapter 8: Subnetting IP Networks<br>
@@ -616,8 +617,8 @@ Catalog
 >>8.4.1.2 Packet Tracer – Skills Integration Challenge<br>
 >>8.4.1.3 Chapter 8: Subnetting IP Networks<br>
 <br>
-### Chapter 9<br>
-#### Transport Layer<br>
+Chapter 9<br>
+Transport Layer<br>
 9.0 Introduction<br>
 >9.0.1 Welcome<br>
 >>9.0.1.1 Transport Layer<br>
@@ -674,8 +675,8 @@ Catalog
 >>9.3.1.2 Packet Tracer - TCP and UDP Communications<br>
 >>9.3.1.3 Chapter 9: Transport Layer<br>
 <br>
-### Chapter 10<br>
-#### Application Layer<br>
+Chapter 10<br>
+Application Layer<br>
 10.0 Introduction<br>
 >10.0.1 Welcome<br>
 >>10.0.1.1 Chapter 10: Application Layer<br>
@@ -722,9 +723,9 @@ Catalog
 >>10.3.1.3 Packet Tracer - Multiuser - Tutorial<br>
 >>10.3.1.4 Packet Tracer Multiuser - Implement Services<br>
 >>10.3.1.5 Chapter 10: Application Layer<br>
-<br>
-### Chapter 11<br>
-#### Build a Small Network<br>
+><br>
+Chapter 11<br>
+Build a Small Network<br>
 >11.0 Introduction<br>
 >>11.0.1 Welcome<br>
 >>11.0.1.1 Chapter 11: Build a Small Network<br>
