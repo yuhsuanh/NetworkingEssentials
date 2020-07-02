@@ -1,14 +1,16 @@
-# NetworkingEssentials
+Georgian College - COMP1035 Networking Essentials
+=====
 
-2020/01/06 - 2020/04/13
-Georgian College - Computer Programming COMP 1035
+
+### Course Description
+  * Network systems interconnect computer related resources, services and users. Students gain fundamental knowledge of networking concepts and technologies. There is a strong emphasis on terminology, protocols, error detection/correction and network security. Students develop the necessary skills to plan and implement small networks across a range of applications.
+
+### Instructor
+  * Ali Ershad-Manesh
+
 
 Cisco & Packet Tracer
-
-
-Catalog
----
-
+### Catalog
 Chapter 0
 Course Introduction
 * 0.0 Welcome to Introduction to Networks
